@@ -3,14 +3,27 @@
 }*/
 
 body {
-  background: #4C6B75;
+  background: #565656; /* 4C6B75 */
   color: #fff;
 }
 
 /* General */
 
 .bottom-border {
-  border-bottom: 3px solid #fff;
+  border-bottom: 3px solid #76323F;
+}
+
+.float-left {
+  float: left;
+}
+
+.float-right {
+  clear: right;
+  float: right;
+}
+
+.monospace {
+  font-family: monospace;
 }
 
 /* Banner Styling */
@@ -20,13 +33,13 @@ body {
 }
 
 .banner-bottom-border {
-  border-bottom: 3px solid #000;
+  border-bottom: 5px solid #76323F;
 }
 
 .banner-img {
   max-height: 50vh;
-  border: 5px solid #fff;
-  border-radius: 3%;
+  border: 5px solid #CAEBF2;
+  border-radius: 2%;
 }
 
 /* Picture Section Styling */
@@ -42,7 +55,7 @@ body {
 }
 
 .dofromrow {
-  background: #2E434A;
+  background: #2E434A; /* 2E434A */
 }
 
 ul {
@@ -53,10 +66,16 @@ ul {
 /* About Section */
 
 .about {
-  background: #5D8096;
+  background: #C7282B;
 }
 
 a {
   color: #fff;
   text-decoration: underline;
+}
+
+/* Contact Section */
+
+.contact {
+  background: #44446E;
 }
