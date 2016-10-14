@@ -55,7 +55,7 @@ body {
   background: #2E434A;
 }
 
-ul {
+ul, ol {
   list-style: none;
   padding: 0;
 }
