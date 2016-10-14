@@ -74,6 +74,13 @@ a {
   text-decoration: underline;
 }
 
+/* Projects Section */
+
+.project-titles {
+  color: #BBC1ED;
+}
+
+
 /* Contact Section */
 
 .contact {
