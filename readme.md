@@ -2,7 +2,7 @@
 
 #### Portfolio Website, 14 Oct 2016
 
-#### By ** Jim Padilla **
+#### By Jim Padilla
 
 ## Description
 
@@ -28,4 +28,4 @@ Github: JPCodes
 
 MIT License
 
-Copyright (c) 2016 **_{List of contributors or company name}_**
+Copyright (c) 2016 Jim Padilla
