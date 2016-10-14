@@ -12,10 +12,6 @@ This project showcases web development projects by the author.
 
 * No special instructions; Simply open in any code editor
 
-## Known Bugs
-
-
-
 ## Support and contact details
 
 Github: JPCodes

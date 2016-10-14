@@ -86,3 +86,13 @@ a {
 .contact {
   background: #44446E;
 }
+
+/* Footer */
+
+.footer {
+  background: #00754E;
+}
+
+.footer p {
+  margin-top: 5px;
+}
