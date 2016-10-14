@@ -7,11 +7,19 @@ body {
   color: #fff;
 }
 
+/* General */
+
+.bottom-border {
+  border-bottom: 3px solid #fff;
+}
+
+/* Banner Styling */
+
 .banner {
   margin-bottom: 15px;
 }
 
-.bottom-border {
+.banner-bottom-border {
   border-bottom: 3px solid #000;
 }
 
@@ -21,11 +29,34 @@ body {
   border-radius: 3%;
 }
 
+/* Picture Section Styling */
+
+.picrow {
+  padding-bottom: 15px;
+}
+
+/* Where I'm From/Do section */
+
 .text-squisher {
   width: 50%;
+}
+
+.dofromrow {
+  background: #2E434A;
 }
 
 ul {
   list-style: none;
   padding: 0;
+}
+
+/* About Section */
+
+.about {
+  background: #5D8096;
+}
+
+a {
+  color: #fff;
+  text-decoration: underline;
 }
