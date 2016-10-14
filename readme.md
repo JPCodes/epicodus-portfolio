@@ -8,6 +8,10 @@
 
 This project showcases web development projects by the author.
 
+## GH-Pages
+
+View the project [here](https://jpcodes.github.io/epicodus-portfolio/)
+
 ## Setup/Installation Requirements
 
 * No special instructions; Simply open in any code editor
