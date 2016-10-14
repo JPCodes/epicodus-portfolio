@@ -1,9 +1,6 @@
-/** {
-  border: 1px solid red;
-}*/
 
 body {
-  background: #565656; /* 4C6B75 */
+  background: #565656;
   color: #fff;
 }
 
@@ -55,7 +52,7 @@ body {
 }
 
 .dofromrow {
-  background: #2E434A; /* 2E434A */
+  background: #2E434A;
 }
 
 ul {
