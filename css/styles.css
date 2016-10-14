@@ -1,0 +1,31 @@
+/** {
+  border: 1px solid red;
+}*/
+
+body {
+  background: #4C6B75;
+  color: #fff;
+}
+
+.banner {
+  margin-bottom: 15px;
+}
+
+.bottom-border {
+  border-bottom: 3px solid #000;
+}
+
+.banner-img {
+  max-height: 50vh;
+  border: 5px solid #fff;
+  border-radius: 3%;
+}
+
+.text-squisher {
+  width: 50%;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
